@@ -11,4 +11,6 @@ console.log(maVariable2);
 let maVariable3 = maVariable1 + maVariable2;
 console.log(maVariable3);
 
-let = monTableau()
+let monTableau = [maVariable1, maVariable2, maVariable3];
+console.log(monTableau);
+
